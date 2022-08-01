@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SASuleiman
 - 👀 I’m interested in web and software development
 - 🌱 I’m currently learning java,spring and springboot. 
-- 💞️ I’m looking to collaborate on any project that is applicable to javascript,html 5, css3, and embedded c 
+- 💞️ I’m looking to collaborate on any project that is applicable to JavaScript and Springboot
 - 📫 How to reach me suleimansuleiman606@gmail.com 
 
 <!---
